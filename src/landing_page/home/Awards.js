@@ -9,7 +9,7 @@ function Awards() {
                 </div>
                 <div className='col-6 p-5 mt-2'>
                     <h2>Largest Stock broker in India</h2>
-                    <p className='mb-4'>2+ million Zerodha clients contribute to over 15% of all retail
+                    <p className='mb-4'>2+ million StockGlide clients contribute to over 15% of all retail
                     order volumes in India daily by trading and investing in:</p>
                     <div className='row'>
                         <div className='col-6'>
